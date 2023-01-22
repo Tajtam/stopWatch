@@ -23,6 +23,6 @@ btnStop.addEventListener('click', function () {
 btnreset.addEventListener('click', function () {
     console.log('reset')
     counter = 0;
-    counterEl.innerText = counter
+    counterEl.innerText = counter;
 
 });
