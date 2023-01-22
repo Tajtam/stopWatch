@@ -25,4 +25,4 @@ btnreset.addEventListener('click', function () {
     counter = 0;
     counterEl.innerText = counter
 
-})
+});

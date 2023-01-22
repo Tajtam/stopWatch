@@ -24,8 +24,7 @@ button {
     border-radius: 8px;
     background-color: #d1efb8;
     box-shadow: 0 0 15px 5px rgba(0,0,0,0.07);
-    padding: 10px;
-
+    padding: 10px;git status
 }
 
 button:last-child {
